@@ -55,7 +55,7 @@ ___
 ### :fire: My Stats :
 
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="500px" height="200px" src="https://github-contribution-stats.vercel.app/api/?username=Hrithik-P" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="320px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Hrithik-P" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
